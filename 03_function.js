@@ -1,3 +1,5 @@
+
+
 function swap(n1, n2){ // n1, n2 arguments or parameters n1=100   n2=200
     console.log('Inside swap function');
     console.log('Before Swap=> n1', n1, " n2", n2 );
