@@ -1,3 +1,9 @@
+
+
+
+
+
+
 var interviewEligibility = function(gradScore, hscScore, sscScore, candidateName ){
     var result = gradScore>=70 || hscScore>= 80 || sscScore >=90 
      ? `Congrats ${candidateName} you are eligible for TCS interview.`
