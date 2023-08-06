@@ -1,5 +1,8 @@
 
 
+
+
+
 console.log('------------------Step 1: Function with no arg and no return value-----------------');
 
 function message(){

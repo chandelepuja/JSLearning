@@ -85,3 +85,19 @@ console.log(array);
 var array = [10, 20, 30, 50, 10, 80, 20];
 array.splice(4, 2, 33, 55, 66, 77 );
 console.log(array);
+
+console.log(`--------concat----------`);
+let array1 = [3, 4, 5, 6];
+let array2 = [6, 7, 8, 9];
+let array3 = array1.concat(array2);
+console.log(array3);
+
+console.log(`-----------join----------`);
+let result = array3.join(",");
+console.log(result);
+
+
+console.log(`-----------for of loop----------`);
+for (const element of array3) {
+    console.log(element);
+}
