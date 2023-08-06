@@ -89,5 +89,6 @@ arrayNumber.splice(3,0,55,66);
 console.log(arrayNumber);
 
 console.log(`======================Step 13======================`);
-
+arrayNumber.splice(4,3);
+console.log(arrayNumber);
 
