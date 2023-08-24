@@ -18,6 +18,6 @@ var yourHobby3 = hobby3.length;
 console.log(`Number of characters in First hobby = ${yourHobby1}   in Second hobby = ${yourHobby2}   in Third hobby = ${yourHobby3}`);
 
 var sum = yourHobby1 + yourHobby2 + yourHobby3;
-console.log(`Sum of total number of character in hobby is : ${sum}`);
+console.log(`Sum of total number of character in hobbies are : ${sum}`);
 }
 stringBasics();
